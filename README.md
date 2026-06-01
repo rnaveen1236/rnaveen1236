@@ -25,7 +25,25 @@
 🚀 &nbsp;**Motto** &nbsp;→&nbsp; *"Build what matters. Automate the rest."*
 
 <br clear="right"/>
+<img align="right" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
+```bash
+╔══════════════════════════════════════╗
+║  👤  Naveen Kumar R                  ║
+║  📍  Trichy, Tamil Nadu 🇮🇳           ║
+║  🎯  AI & ML Developer               ║
+║  🎓  B.E. CSE | CGPA: 8.2           ║
+╠══════════════════════════════════════╣
+║  ⚡  Python • PyTorch • TensorFlow   ║
+║      OpenCV • YOLO • React.js        ║
+╠══════════════════════════════════════╣
+║  🔭  Advanced CV | LLM | Cloud       ║
+║  🤖  Robot arm sorts waste ♻️        ║
+║  🚀  Build. Automate. Repeat.        ║
+╚══════════════════════════════════════╝
+```
+
+<br clear="right"/>
 ```
 
 👤  Naveen Kumar R
