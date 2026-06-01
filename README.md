@@ -21,7 +21,6 @@
 🚀 &nbsp;**Motto** &nbsp;→&nbsp; *"Build what matters. Automate the rest."*
 
 <br clear="right"/>
-<img align="right" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>  
 
 ## 🛠️ Tech Stack
 
