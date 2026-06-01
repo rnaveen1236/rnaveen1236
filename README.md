@@ -11,14 +11,13 @@
 
 🎯 &nbsp;**AI & ML Developer**   
 📍 &nbsp;Trichy, Tamil Nadu, India 🇮🇳  
-🎓 &nbsp;B.E. Computer Science & Engineering · CGPA 8.2  
+🎓 &nbsp;B.E. Computer Science & Engineering
 📧 &nbsp;rnaveen1236@gmail.com  
 
 ---
 
 ⚡ &nbsp;**Stack** &nbsp;→&nbsp; Python • PyTorch • TensorFlow • OpenCV • YOLO • React.js  
 🔭 &nbsp;**Learning** &nbsp;→&nbsp; Advanced CV | LLM Fine-Tuning | Cloud (AWS/GCP)  
-🤖 &nbsp;**Fun Fact** &nbsp;→&nbsp; Once built a robot arm that sorts waste ♻️  
 🚀 &nbsp;**Motto** &nbsp;→&nbsp; *"Build what matters. Automate the rest."*
 
 <br clear="right"/>
