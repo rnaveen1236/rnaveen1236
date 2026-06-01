@@ -8,7 +8,7 @@
 
 </div>
 
----
+---'''
 
 👤  Naveen Kumar R
 📍  Trichy, Tamil Nadu, India 🇮🇳
@@ -22,7 +22,7 @@
 🤖  Fun Fact  → Once built a robot arm that sorts waste ♻️
 🚀  Motto     → "Build what matters. Automate the rest."
 ---
-
+'''
 ## 🛠️ Tech Stack
 
 **Languages**
