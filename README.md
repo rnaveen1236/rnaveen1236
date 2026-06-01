@@ -8,6 +8,24 @@
 
 </div>
 
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### Hi there, I'm Naveen Kumar R 👋
+
+🎯 &nbsp;**AI & ML Developer** — building intelligent systems  
+📍 &nbsp;Trichy, Tamil Nadu, India 🇮🇳  
+🎓 &nbsp;B.E. Computer Science & Engineering · CGPA 8.2  
+📧 &nbsp;rnaveen1236@gmail.com  
+
+---
+
+⚡ &nbsp;**Stack** &nbsp;→&nbsp; Python • PyTorch • TensorFlow • OpenCV • YOLO • React.js  
+🔭 &nbsp;**Learning** &nbsp;→&nbsp; Advanced CV | LLM Fine-Tuning | Cloud (AWS/GCP)  
+🤖 &nbsp;**Fun Fact** &nbsp;→&nbsp; Once built a robot arm that sorts waste ♻️  
+🚀 &nbsp;**Motto** &nbsp;→&nbsp; *"Build what matters. Automate the rest."*
+
+<br clear="right"/>
+
 ```
 
 👤  Naveen Kumar R
