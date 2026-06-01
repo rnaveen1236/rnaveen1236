@@ -43,7 +43,26 @@ class NaveenKumarR:
 
 me = NaveenKumarR()
 ```
+const NaveenKumarR = {
+  name:     "Naveen Kumar R",
+  location: "Trichy, Tamil Nadu, India 🇮🇳",
+  email:    "rnaveen1236@gmail.com",
+  degree:   "B.E. Computer Science & Engineering",
+  college:  "Govt. College of Engineering, Srirangam",
+  cgpa:     8.2,
 
+  stack: ["Python", "Java", "PyTorch", "TensorFlow",
+          "Scikit-learn", "OpenCV", "YOLO", "React.js",
+          "Node.js", "MongoDB", "MySQL"],
+
+  currentlyLearning: ["Advanced Computer Vision",
+                      "Robotic Process Automation",
+                      "LLM Fine-Tuning & RAG Systems",
+                      "Cloud Deployment (AWS / GCP)"],
+
+  funFact: "I once made a robot arm sort waste 🤖♻️",
+  motto:   () => "Build what matters. Automate the rest. 🚀"
+};
 <br clear="right"/>
 
 ---
