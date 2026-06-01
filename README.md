@@ -162,23 +162,21 @@
 </div>
 
 ```
+```
+ ## 📬 Connect With Me
 
----
+    <div align="center">
 
-## 📬 Connect With Me
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenkumar1236)
+    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/naveenkumar1236)
+    [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rnaveen1236@gmail.com)
 
-<div align="center">
+    </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenkumar1236)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/naveenkumar1236)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rnaveen1236@gmail.com)
+    ---
 
-</div>
+    <div align="center">
+    <i>⚡ "Build what matters. Automate the rest." — Naveen Kumar R</i>
+    </div>
 
----
-
-<div align="center">
-  <i>⚡ "Build what matters. Automate the rest." — Naveen Kumar R</i>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
