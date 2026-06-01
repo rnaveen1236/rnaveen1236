@@ -7,12 +7,10 @@
 <img src="https://komarev.com/ghpvc/?username=naveenkumar1236&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
 
 </div>
-
+```
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### Hi there, I'm Naveen Kumar R 👋
-
-🎯 &nbsp;**AI & ML Developer** — building intelligent systems  
+🎯 &nbsp;**AI & ML Developer**   
 📍 &nbsp;Trichy, Tamil Nadu, India 🇮🇳  
 🎓 &nbsp;B.E. Computer Science & Engineering · CGPA 8.2  
 📧 &nbsp;rnaveen1236@gmail.com  
@@ -25,40 +23,9 @@
 🚀 &nbsp;**Motto** &nbsp;→&nbsp; *"Build what matters. Automate the rest."*
 
 <br clear="right"/>
-<img align="right" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
-```bash
-╔══════════════════════════════════════╗
-║  👤  Naveen Kumar R                  ║
-║  📍  Trichy, Tamil Nadu 🇮🇳           ║
-║  🎯  AI & ML Developer               ║
-║  🎓  B.E. CSE | CGPA: 8.2           ║
-╠══════════════════════════════════════╣
-║  ⚡  Python • PyTorch • TensorFlow   ║
-║      OpenCV • YOLO • React.js        ║
-╠══════════════════════════════════════╣
-║  🔭  Advanced CV | LLM | Cloud       ║
-║  🤖  Robot arm sorts waste ♻️        ║
-║  🚀  Build. Automate. Repeat.        ║
-╚══════════════════════════════════════╝
+<img align="right" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>   
 ```
 
-<br clear="right"/>
-```
-
-👤  Naveen Kumar R
-📍  Trichy, Tamil Nadu, India 🇮🇳
-🎯  AI & ML Developer
-🎓  B.E. Computer Science & Engineering
-
-🛠  Python  •  PyTorch  •  TensorFlow
-    OpenCV  •  YOLO  •  React.js  •  Node.js
-
-📖  Currently → Advanced CV | LLM Fine-Tuning | Cloud
-🤖  Fun Fact  → Once built a robot arm that sorts waste ♻️
-🚀  Motto     → "Build what matters. Automate the rest."
----
-```
 ## 🛠️ Tech Stack
 
 **Languages**
