@@ -161,22 +161,28 @@
 | 🤖 | **AI-Powered Waste Sorting System** | Built & deployed real-time vision-to-robot pipeline at FORGE 
 </div>
 
-```
-```
- ## 📬 Connect With Me
 
-    <div align="center">
 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenkumar1236)
-    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/naveenkumar1236)
-    [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rnaveen1236@gmail.com)
+<div align="center">
 
-    </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenkumar1236)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveenkumar1236)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rnaveen1236@gmail.com)
 
-    ---
+</div>
 
-    <div align="center">
-    <i>⚡ "Build what matters. Automate the rest." — Naveen Kumar R</i>
-    </div>
+---
 
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Kumar%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Developer%20%7C%20Computer%20Vision%20%7C%20Robotics%20%7C%20Intelligent%20Systems&descAlignY=62&descSize=16"/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=naveenkumar1236&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
+
+</div>
+
+---
