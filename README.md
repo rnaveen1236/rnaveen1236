@@ -159,28 +159,9 @@
 | ☕ | **Java Programming** | Sara Academy |
 | 🗄️ | **MySQL Programming** | Sara Academy |
 | 🌐 | **Network Essentials** | Cisco Networking Academy |
-| 🤖 | **AI-Powered Waste Sorting System** | Built & deployed real-time vision-to-robot pipeline at FORGE |
-| 🛠️ | **15+ MUP Projects Supported** | End-to-end product development facilitation at FORGE |
-
+| 🤖 | **AI-Powered Waste Sorting System** | Built & deployed real-time vision-to-robot pipeline at FORGE 
 </div>
 
----
-
-
-## 📚 Currently Learning
-
-```
-🧱 Advanced Computer Vision
-    → Depth Estimation · 3D Reconstruction · Stereo Vision · Semantic Segmentation
-
-🧱 Large Language Models (LLMs)
-    → RAG Pipelines · Fine-Tuning · Prompt Engineering · LangChain
-
-🧱 Robotics & Automation
-    → ROS2 · Path Planning · Sensor Fusion · Embedded AI
-
-🧱 Cloud & MLOps
-    → AWS SageMaker · Docker · CI/CD · Model Deployment Pipelines
 ```
 
 ---
