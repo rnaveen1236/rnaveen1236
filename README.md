@@ -12,6 +12,37 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+```python
+class NaveenKumarR:
+    def __init__(self):
+        self.name         = "Naveen Kumar R"
+        self.location     = "Trichy, Tamil Nadu, India 🇮🇳"
+        self.email        = "rnaveen1236@gmail.com"
+        self.degree       = "B.E. Computer Science & Engineering"
+        self.college      = "Govt. College of Engineering, Srirangam"
+        self.cgpa         = 8.2
+
+        self.stack = [
+            "Python", "Java", "PyTorch",
+            "TensorFlow", "Scikit-learn",
+            "OpenCV", "YOLO", "React.js",
+            "Node.js", "MongoDB", "MySQL"
+        ]
+
+        self.currentlyLearning = [
+            "Advanced Computer Vision",
+            "Robotic Process Automation",
+            "LLM Fine-Tuning & RAG Systems",
+            "Cloud Deployment (AWS / GCP)"
+        ]
+
+        self.funFact = "I once made a robot arm sort waste 🤖♻️"
+
+    def motto(self):
+        return "Build what matters. Automate the rest. 🚀"
+
+me = NaveenKumarR()
+```
 
 <br clear="right"/>
 
@@ -160,18 +191,6 @@
 
 ---
 
-## 🎓 Education
-
-<div align="center">
-
-| 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
-|:---|:---|:---:|:---:|
-| B.E. Computer Science & Engineering | Government College of Engineering, Srirangam, Trichy | 2021 – 2025 | CGPA: **8.2** |
-| Higher Secondary Education (HSC) | St. Patrick's Higher Secondary School, Trichy | 2021 | **92.5%** |
-
-</div>
-
----
 
 ## 📚 Currently Learning
 
