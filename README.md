@@ -12,38 +12,6 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class NaveenKumarR:
-    def __init__(self):
-        self.name         = "Naveen Kumar R"
-        self.location     = "Trichy, Tamil Nadu, India 🇮🇳"
-        self.email        = "rnaveen1236@gmail.com"
-        self.degree       = "B.E. Computer Science & Engineering"
-        self.college      = "Govt. College of Engineering, Srirangam"
-        self.cgpa         = 8.2
-
-        self.stack = [
-            "Python", "Java", "PyTorch",
-            "TensorFlow", "Scikit-learn",
-            "OpenCV", "YOLO", "React.js",
-            "Node.js", "MongoDB", "MySQL"
-        ]
-
-        self.currentlyLearning = [
-            "Advanced Computer Vision",
-            "Robotic Process Automation",
-            "LLM Fine-Tuning & RAG Systems",
-            "Cloud Deployment (AWS / GCP)"
-        ]
-
-        self.funFact = "I once made a robot arm sort waste 🤖♻️"
-
-    def motto(self):
-        return "Build what matters. Automate the rest. 🚀"
-
-me = NaveenKumarR()
-print(me.motto())
-```
 
 <br clear="right"/>
 
