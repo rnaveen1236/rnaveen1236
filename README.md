@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Kumar%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Developer%20%7C%20Computer%20Vision%20%7C%20Robotics%20%7C%20Intelligent%20Systems&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Naveen+Kumar+R&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=40"/>
 
 <div align="center">
 
