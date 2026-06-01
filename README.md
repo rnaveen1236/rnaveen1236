@@ -10,23 +10,17 @@
 
 ---
 
-<div align="center">
+👤  Naveen Kumar R
+📍  Trichy, Tamil Nadu, India 🇮🇳
+🎯  AI & ML Developer
+🎓  B.E. Computer Science & Engineering
 
-### 👨‍💻 About Me
+🛠  Python  •  PyTorch  •  TensorFlow
+    OpenCV  •  YOLO  •  React.js  •  Node.js
 
-| | |
-|:---|:---|
-| 👤 **Name** | Naveen Kumar R |
-| 📍 **Location** | Trichy, Tamil Nadu, India 🇮🇳 |
-| 📧 **Email** | rnaveen1236@gmail.com |
-| 🎓 **Degree** | B.E. Computer Science & Engineering |
-| 🏛️ **College** | Govt. College of Engineering, Srirangam |
-| 📊 **CGPA** | 8.2 |
-| 🤖 **Fun Fact** | I once made a robot arm sort waste 🤖♻️ |
-| 💬 **Motto** | Build what matters. Automate the rest. 🚀 |
-
-</div>
-
+📖  Currently → Advanced CV | LLM Fine-Tuning | Cloud
+🤖  Fun Fact  → Once built a robot arm that sorts waste ♻️
+🚀  Motto     → "Build what matters. Automate the rest."
 ---
 
 ## 🛠️ Tech Stack
