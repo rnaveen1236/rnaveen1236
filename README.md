@@ -139,9 +139,9 @@
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| [🤖 AI-Powered Automated Waste Sorting System](https://github.com/naveenkumar1236) | Python · YOLO · OpenCV · Arduino · Inverse Kinematics | Real-time object detection with camera calibration & homography-based coordinate transformation; 6DOF robotic arm automation with vision-to-robot pipeline |
-| [🧭 Career Guidance Platform](https://github.com/naveenkumar1236) | Node.js · MySQL · HTML · CSS · Bootstrap · JWT | Psychometric & intelligence test-based career mapping; Secure JWT auth with password encryption; Personalized roadmaps with clean responsive dashboards |
-| [🌐 Responsive Portfolio Website](https://github.com/naveenkumar1236) | HTML · CSS · JavaScript | Interactive 3D cube navigation system; Fully responsive across desktop, tablet & mobile; Smooth animations & dynamic tab switching |
+| [🤖 AI-Powered Automated Waste Sorting System](https://github.com/rnaveen1236) | Python · YOLO · OpenCV · Arduino · Inverse Kinematics | Real-time object detection with camera calibration & homography-based coordinate transformation; 6DOF robotic arm automation with vision-to-robot pipeline |
+| [🧭 Career Guidance Platform](https://github.com/rnaveen1236) | Node.js · MySQL · HTML · CSS · Bootstrap · JWT | Psychometric & intelligence test-based career mapping; Secure JWT auth with password encryption; Personalized roadmaps with clean responsive dashboards |
+| [🌐 Responsive Portfolio Website](https://github.com/rnaveen1236) | HTML · CSS · JavaScript | Interactive 3D cube navigation system; Fully responsive across desktop, tablet & mobile; Smooth animations & dynamic tab switching |
 
 </div>
 
